@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ArmanAryanpour/flappy">
-    <img src="https://raw.githubusercontent.com/ArmanAryanpour/flappy/main/public/logo.png" alt="Logo" width="160" height="80">
+    <img src="https://raw.githubusercontent.com/ArmanAryanpour/flappy/main/public/logo.png" alt="Logo" width="160" height="65">
   </a>
 
   <p align="center">
